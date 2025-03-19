@@ -2,3 +2,6 @@ This is my first line
 second change 
 testing a git
 testing a beanch dev
+test 123
+test master got merged
+test 2 git 
